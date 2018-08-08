@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "975722403631",
-    "firebase_url": "https://soy-storm-210422.firebaseio.com",
-    "project_id": "soy-storm-210422",
-    "storage_bucket": "soy-storm-210422.appspot.com"
+    "project_number": "894482677164",
+    "firebase_url": "https://lux-administradora.firebaseio.com",
+    "project_id": "lux-administradora",
+    "storage_bucket": "lux-administradora.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:975722403631:android:6348411249c6d5a4",
+        "mobilesdk_app_id": "1:894482677164:android:962c0d7a34c59597",
         "android_client_info": {
-          "package_name": "com.facilitycondo.android"
+          "package_name": "com.lux.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "975722403631-p7jsdb4990abi0bepimi7hhddfkio8en.apps.googleusercontent.com",
+          "client_id": "894482677164-kfgepu667n101b9ag86clffuor53n6bd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA0AeU2XTUyMxk62tj5zVk7oFCc6Kg2_zk"
+          "current_key": "AIzaSyDBi9KKLm1w99cAb2IEFRKTQvz8_iuWrc4"
         }
       ],
       "services": {
